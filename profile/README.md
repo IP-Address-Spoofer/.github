@@ -1,6 +1,5 @@
 ![Working 2025](https://img.shields.io/badge/Working-2025-brightgreen)  
 ![IP Address Spoofer](https://img.shields.io/badge/IP%20Address-Spoofer-blue)  
-![NordVPN Recommended](https://img.shields.io/badge/NordVPN-Recommended-critical)
 
 # Best IP Address Spoofer/Changer in 2025
 
